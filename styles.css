@@ -1,0 +1,101 @@
+html {
+    background-color: #a5a0ebbd;
+}
+
+.titulo {
+    color: #470c0cf8;
+    text-align: center;
+
+}
+
+.biografia {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+#botao {
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: #36323891;
+    color: #ffffff;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#mensagem {
+    font-size: 20px;
+    color: #073f74;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: none;
+}
+
+.titulo-hobbies {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.lista-hobbies {
+    line-height: 2;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+.img-hobbies {
+    max-width: 20%;
+    border-radius: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.tabela {
+    width: 30%;
+    margin-top: 50x;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.tabela h2 {
+    margin-bottom: 20px;
+
+}
+
+.tabela table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.tabela th {
+    border: 1px solid black;
+    background-color: #8458b3d8;
+    padding: 10px;
+}
+
+.tabela td {
+    border: 1px solid black;
+    background-color: #d0bdf4;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.img-paises {
+    max-width: 80%;
+    border-radius: 20px;
+}
+
+.site {
+    line-height: 3;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.site:hover {
+    color: rgb(255, 6, 222);
+}
